@@ -1,4 +1,4 @@
-// Import data
+import React from 'react';// Import data
 
 // Import components
 import './App.css';
